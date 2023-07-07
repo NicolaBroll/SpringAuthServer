@@ -1,0 +1,2 @@
+# SpringAuthServer
+Spring auth server
